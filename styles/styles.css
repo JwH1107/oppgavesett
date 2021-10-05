@@ -55,6 +55,32 @@
   color: pink;
 }
 
+.task-3 {
+  position: relative;
+  text-align: center;
+}
+
+.box1 {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background-color: blueviolet;
+}
+
+.box2 {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background-color: red;
+}
+
+.box3 {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background-color: aquamarine;
+}
+
 .blue-box {
   position: relative;
   width: 150px;
