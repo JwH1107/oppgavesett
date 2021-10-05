@@ -45,6 +45,15 @@
   height: 30vh;
   top: 31%;
 }
+.j {
+  color: blue;
+}
+.r {
+  color: yellow;
+}
+.a {
+  color: pink;
+}
 
 .blue-box {
   position: relative;
