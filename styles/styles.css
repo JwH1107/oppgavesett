@@ -107,3 +107,14 @@ p {
 .numbers::first-letter {
   color: red;
 }
+
+.btn {
+  background-color: hotpink;
+  width: 300px;
+  height: 300px;
+  border: none;
+}
+
+.btn:hover {
+  background-color: green;
+}
