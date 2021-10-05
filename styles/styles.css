@@ -104,6 +104,9 @@ p {
   height: 200px;
 }
 
+.her {
+  color: transparent;
+}
 .numbers::first-letter {
   color: red;
 }
